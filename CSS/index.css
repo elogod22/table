@@ -1,0 +1,13 @@
+body{
+    justify-items: center;
+    }
+
+table, th, td{
+border: 1px solid black;
+text-align: center;
+border-collapse: collapse;
+}
+
+tr:nth-child(odd) {
+background-color: rgba(116, 230, 230, 0.4);
+}
